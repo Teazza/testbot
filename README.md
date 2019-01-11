@@ -1,5 +1,5 @@
-# 
-かずみの單機半垢A linebot built by my friend.
+# かずみの單機半垢
+A linebot built by my friend.
 
 安裝termux  
 打開輸入  
